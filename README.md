@@ -13,7 +13,7 @@
 
 | Модель | Ссылка на магазин |
 |---|---|
-| <p>Адресные светодиоды, модули NeoPixel</p> <img src="https://wiki.iarduino.ru/img/resources/783/783.svg" width="100px"></img>| https://iarduino.ru/shop/Expansion-payments/neopixel-trema-modul.html |
+| <p>Адресные светодиоды, модули NeoPixel</p> <img src="https://wiki.iarduino.ru/img/resources/784/784.svg" width="100px"></img>| https://iarduino.ru/shop/Expansion-payments/neopixel-trema-modul.html |
 
 
 ## Назначение функций:
