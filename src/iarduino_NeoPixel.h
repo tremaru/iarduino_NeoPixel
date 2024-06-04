@@ -1,5 +1,5 @@
 //	Библиотека для работы с адресными светодиодами WS2812B: http://iarduino.ru/shop/Expansion-payments/neopixel-trema-modul.html
-//  Версия: 1.0.1
+//  Версия: 1.0.2
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: http://iarduino.ru/file/296.html
 //  Подробное описание функции бибилиотеки доступно по ссылке: http://wiki.iarduino.ru/page/adresnye-svetodiody-moduli-neopixel/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
