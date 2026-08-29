@@ -668,6 +668,7 @@ void	iarduino_NeoPixel::write(){																							//
 						interrupts();																						//	Возобновляем исполнение прерываний (если таковые были)
 				#endif																										//
 			}																												//
+			(void)(arr);																									//	Избавляемся от предупреждения неиспользуемой переменной.
 }																															//
 																															//
 void	iarduino_NeoPixel::setColor(uint16_t n, uint32_t rgb, uint8_t j){													//
